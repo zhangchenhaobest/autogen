@@ -1,3 +1,29 @@
+# autogen
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A programming framework for agentic AI
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向智能体 AI（agentic AI）的编程框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <a name="readme-top"></a>
 
 <div align="center">
